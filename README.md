@@ -10,7 +10,7 @@ CS Assignment #6 Vision Transformer
 - `outputs/results.csv`, `outputs/histories.json` — results table and per-epoch curves
 - `outputs/*.png` — figures
 
-## Setup and run (CPU is sufficient; GPU optional)
+## Setup and run 
 ```bash
 pip install --index-url https://download.pytorch.org/whl/cpu torch torchvision
 pip install numpy matplotlib pandas jupyter
